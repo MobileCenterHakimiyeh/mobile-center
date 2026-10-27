@@ -1,0 +1,178 @@
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>موبایل سنتر | فروش لوازم جانبی موبایل</title>
+  <meta name="description" content="موبایل سنتر حکیمیه، انواع لوازم جانبی موبایل، هندزفری، هدفون، موس و شارژر">
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Tahoma, Arial, sans-serif;
+      background: #f4f6fa;
+      color: #172033;
+    }
+    header {
+      background: linear-gradient(135deg, #101c38, #1769aa);
+      color: white;
+      text-align: center;
+      padding: 35px 15px;
+    }
+    header h1 { margin: 0 0 12px; font-size: 32px; }
+    header p { margin: 8px 0; line-height: 2; }
+    .container { max-width: 1100px; margin: auto; padding: 22px 15px; }
+    .section-title { text-align: center; margin: 15px 0 25px; }
+    .products {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 18px;
+    }
+    .product {
+      background: white;
+      border-radius: 16px;
+      padding: 22px 16px;
+      text-align: center;
+      box-shadow: 0 4px 16px #17203312;
+      border: 1px solid #e7ebf2;
+    }
+    .product .emoji { font-size: 48px; margin-bottom: 12px; }
+    .product h3 { font-size: 17px; line-height: 1.9; margin: 8px 0; }
+    .product p { color: #667085; font-size: 13px; line-height: 1.9; }
+    .price { color: #1769aa; font-weight: bold; margin: 15px 0; }
+    .btn {
+      display: inline-block;
+      background: #087f5b;
+      color: white;
+      padding: 11px 17px;
+      text-decoration: none;
+      border-radius: 9px;
+      font-size: 14px;
+    }
+    .contact {
+      background: white;
+      margin-top: 30px;
+      padding: 25px 18px;
+      border-radius: 16px;
+      text-align: center;
+      line-height: 2.2;
+    }
+    footer {
+      text-align: center;
+      color: #667085;
+      padding: 22px 10px;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>📱 موبایل سنتر</h1>
+  <p>مرجع لوازم جانبی موبایل و گجت‌های دیجیتال</p>
+  <p>کیفیت خوب، تنوع بالا و خرید آسان</p>
+  <a class="btn" href="#products">مشاهده محصولات</a>
+</header>
+
+<main class="container">
+  <h2 class="section-title" id="products">🛍️ محصولات فروشگاه</h2>
+
+  <div class="products">
+
+    <div class="product">
+      <div class="emoji">🖱️</div>
+      <h3>موس گیمینگ Earldom KM5</h3>
+      <p>موس سیمی USB-C با نورپردازی RGB</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت موس Earldom KM5 را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🖱️</div>
+      <h3>موس سیمی ProOne PMC40</h3>
+      <p>موس USB مناسب لپ‌تاپ و کامپیوتر</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت موس ProOne PMC40 را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🔌</div>
+      <h3>مبدل برق Universal</h3>
+      <p>آداپتور تبدیل دوشاخه برق</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت مبدل برق را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🔋</div>
+      <h3>کابل شارژ Flash Wire</h3>
+      <p>کابل Lightning به USB با طراحی مغناطیسی</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت کابل Flash Wire را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🚗</div>
+      <h3>هولدر مگنتی خودرو DH02</h3>
+      <p>پایه نگهدارنده مغناطیسی موبایل خودرو</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت هولدر خودرو DH02 را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🎧</div>
+      <h3>هندزفری بلوتوث Soundcore R50i</h3>
+      <p>ایربادز بی‌سیم با کیس شارژ</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت Soundcore R50i را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🎧</div>
+      <h3>هندزفری بی‌سیم سفید</h3>
+      <p>هندزفری بلوتوثی با کیس شارژ</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت هندزفری بی‌سیم سفید را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🎧</div>
+      <h3>هدفون بلوتوثی P47</h3>
+      <p>هدفون بی‌سیم با کنترل روی بدنه</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت هدفون P47 را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🎧</div>
+      <h3>هدفون P9</h3>
+      <p>هدفون روگوشی بی‌سیم</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت هدفون P9 را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+    <div class="product">
+      <div class="emoji">🎧</div>
+      <h3>هدفون JBL Tune 950D</h3>
+      <p>هدفون روگوشی با طراحی رنگی</p>
+      <div class="price">قیمت: استعلام کنید</div>
+      <a class="btn" href="https://wa.me/989190705037?text=سلام، قیمت هدفون JBL را می‌خواستم">استعلام در واتساپ</a>
+    </div>
+
+  </div>
+
+  <section class="contact" id="contact">
+    <h2>📍 آدرس فروشگاه</h2>
+    <p>حکیمیه، خیابان نشوه، پاساژ ولیعصر، پلاک B33</p>
+    <p>برای اطلاع از قیمت و موجودی محصولات با ما در ارتباط باشید.</p>
+    <a class="btn" href="https://wa.me/989190705037">سفارش و ارتباط در واتساپ</a>
+  </section>
+</main>
+
+<footer>
+  © موبایل سنتر - تمامی حقوق محفوظ است
+</footer>
+
+</body>
+</html>
